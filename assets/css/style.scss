@@ -6,11 +6,21 @@
 #banner {
   height: 0px;
   background: #ffcc00;
-  top: 90px;
+  top: 25px;
   border: 0px solid #f0b500;
   
   .button {
     position:absolute;
     display: block;
   }
+}
+
+header {
+  padding: 25px 20px 25px 20px;
+  text-align: left;
+  background: url(../images/background.png) #4276b6;
+  box-shadow: 1px 0px 2px rgba(0,0,0,.75);
+  z-index:99;
+  -webkit-font-smoothing:antialiased;
+  min-height: 51px;
 }
