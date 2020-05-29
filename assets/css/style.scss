@@ -6,4 +6,11 @@
 #banner {
   height: 0px;
   background: #ffcc00;
+  top: 90px;
+  border: 0px solid #f0b500;
+  
+  .button {
+    position:absolute;
+    display: block;
+  }
 }
