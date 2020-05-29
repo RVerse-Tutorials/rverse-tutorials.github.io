@@ -1,36 +1,4 @@
-<style>
-.nav{
-    border:1px solid #ccc;
-    border-width:1px 0;
-    list-style:none;
-    margin:0;
-    padding:0;
-    text-align:center;
-}
-.nav ul{
-    margin-before: 1em;
-    margin-after: 1em;
-    margin-start: 0;
-    margin-end: 0;
-    padding:0;
-}
-.nav li{
-    display:inline-block;
-}
-.nav a{
-    display:inline-block;
-    padding:5px;
-}
-</style>
-
-<ul class="nav">
-  <li><a href="#templates">Templates</a></li>
-  <li><a href="#workshops">Workshops</a></li>
-  <li><a href="https://rverse-tutorials.github.io/NEWS.html">NEWS</a></li>
-  <li><a href="#license">License</a></li>
-</ul>
-
-<img src="img/tools-logo-transparent.png" align="right" width="400px" />
+<img src="img/tools-logo-transparent.png" align="right" width="300" />
 
 **RVerse Tutorials** is a collection of teaching materials on R and R Workflow by the Mathematical Biology Program and the Northwest Fisheries Science Center.
 
