@@ -3,5 +3,6 @@ show_downloads: false
 theme: jekyll-theme-slate
 github:
   repository_url: https://github.com/RVerse-Tutorials
+  is_project_page: true
 include:
   - NEWS.md
