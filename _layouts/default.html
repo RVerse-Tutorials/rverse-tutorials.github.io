@@ -32,23 +32,20 @@
     </div>
 
     <!-- MAIN CONTENT -->
-    <div class="wrapper">
+   <div class="wrapper">
       <nav>
         <ul></ul>
       </nav>
-      <section id="main_content" class="inner">
+      <section>
         {{ content }}
-      </section>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
+      </section>
+      <footer>
         {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+          <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
       </footer>
-    </div>
     </div>
 
     {% if site.google_analytics %}
