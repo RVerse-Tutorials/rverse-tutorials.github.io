@@ -3,6 +3,18 @@
 
 @import "{{ site.theme }}";
 
+#header_wrap {
+  background: #05407c;
+  background: -moz-linear-gradient(top, #373737, #05407c);
+  background: -webkit-linear-gradient(top, #373737, #05407c);
+  background: -ms-linear-gradient(top, #373737, #05407c);
+  background: -o-linear-gradient(top, #373737, #05407c);
+  background: linear-gradient(to top, #373737, #05407c);
+}
+
+#footer_wrap {
+  background: #05407c;
+}
 
 nav {
   width: 230px;
