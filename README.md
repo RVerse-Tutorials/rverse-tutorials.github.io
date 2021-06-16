@@ -8,6 +8,7 @@
 * [Fish Forecast Sept 2018](https://rverse-tutorials.github.io/Fish-Forecast-Training-Course/)
 * [Simple Websites](https://rverse-tutorials.github.io/Simple-Websites/)
 * [RWorkflow NWFSC Spr 2020](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2020/)
+* [RWorkflow NWFSC Spr 2021](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/)
 
 ### TEMPLATES {#templates}
 
