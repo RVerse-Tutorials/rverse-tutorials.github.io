@@ -18,6 +18,7 @@
 - [website](https://github.com/RVerse-Tutorials/Test-Website) - Simple website demo
 - [blog](https://github.com/RVerse-Tutorials/jekyll-simple-blog) - Simple blog.
 - [resume](https://github.com/RVerse-Tutorials/simple-cv) - Simple one-page resume. Looks good on phone too.
+- [NOAA branded pkgdown](https://github.com/nmfs-fish-tools/pkgdownTemplate) - For R packages
 
 ### LICENSE {#license}
 
