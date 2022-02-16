@@ -4,6 +4,7 @@
 
 ### WORKSHOPS and TUTORIALS {#workshops}
 
+* [PSAW III 2022](https://rverse-tutorials.github.io/PSAW-2022/)
 * [RWorkflow NWFSC Spr 2021](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/)
 * [RWorkflow NWFSC Spr 2020](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2020/)
 * [RWorkflow Sept 2018](https://rverse-tutorials.github.io/RWorkflow-Workshop/)
