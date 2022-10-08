@@ -4,6 +4,7 @@
 
 ### WORKSHOPS and TUTORIALS {#workshops}
 
+* [Women in Statistics and Data Science Conference 2022](https://rverse-tutorials.github.io/WSDS-StLouis/)
 * [RWorkflow NOAA Spr 2022](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2022/)
 * [PSAW III 2022](https://rverse-tutorials.github.io/PSAW-2022/)
 * [RWorkflow NWFSC Spr 2021](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/)
