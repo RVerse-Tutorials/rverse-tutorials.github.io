@@ -4,6 +4,9 @@
 
 ### WORKSHOPS and TUTORIALS {#workshops}
 
+* [2025 NOAA Fisheries Hack Hours](https://nmfs-opensci.github.io/NMFSHackDays-2025/) in big ocean data computing and vizualization
+* [Spring 2025 GitHub workshops](https://nmfs-opensci.github.io/GitHub-Clinic/)
+* [Fall 2024 Quarto 5-part workshop](https://nmfs-opensci.github.io/Quarto-Workshop-2024)
 * [EDMW 2024 Workshop on accessing NASA Earthdata from R and Python](https://nmfs-opensci.github.io/EDMW-EarthData-Workshop-2024/)
 * [RWorkflow 2023 online only](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2023/)
 * [NMFS Openscapes Fall 2022 Tutorials](https://rverse-tutorials.github.io/NMFS-Openscapes-fall-2022/)
